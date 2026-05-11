@@ -12,7 +12,7 @@ Sistema simples para adicionar tarefas em uma lista.
 - CSS
 - JavaScript
 - Git
-- GitHub
+- GitHub 
 
 ## Instruções de Execução
 
